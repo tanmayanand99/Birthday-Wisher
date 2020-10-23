@@ -1,3 +1,3 @@
-#####################################################AUTOMATIC BIRTHDAY WISHER############################################################
+# AUTOMATIC BIRTHDAY WISHER
 
 ENTER THE DATA IN data.xlsx FILE
